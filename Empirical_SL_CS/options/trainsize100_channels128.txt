@@ -1,0 +1,1 @@
+{"chans": [128], "num_examples": [100], "num_runs": [3], "lr_min": [1e-06], "max_epochs": [300], "resume_from_which_checkpoint": ["last"]}
