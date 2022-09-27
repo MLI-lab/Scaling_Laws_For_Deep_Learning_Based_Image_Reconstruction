@@ -1,6 +1,6 @@
 # Scaling Laws for Deep Learning Based Image Reconstruction
 
-Code for reproducing the results from the paper __Scaling Laws For Deep Learning Based Image
+Code for reproducing the results in the main body of the paper __Scaling Laws For Deep Learning Based Image
 Reconstruction__.
 
 In particular
